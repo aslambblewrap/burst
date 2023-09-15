@@ -1,0 +1,1313 @@
+@charset "utf-8";
+/* CSS Document */
+
+.newsletter {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.newsletter .div {
+    background-color: #ffffff;
+    width: 1220px;
+    height: 5414px;
+}
+
+.newsletter .frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 140px;
+    padding: 90px 0px;
+    position: relative;
+    background-color: #ffffff;
+}
+
+.newsletter .group {
+    position: relative;
+    width: 676px;
+    height: 241px;
+}
+
+.newsletter .EDITION {
+    position: absolute;
+    width: 92px;
+    height: 12px;
+    top: 228px;
+    left: 2px;
+}
+
+.newsletter .ISSUE {
+    position: absolute;
+    width: 70px;
+    height: 12px;
+    top: 229px;
+    left: 192px;
+}
+
+.newsletter .element {
+    position: absolute;
+    width: 89px;
+    height: 12px;
+    top: 229px;
+    left: 358px;
+}
+
+.newsletter .bblewrap-com {
+    position: absolute;
+    width: 134px;
+    height: 16px;
+    top: 226px;
+    left: 541px;
+}
+
+.newsletter .vector {
+    position: absolute;
+    width: 151px;
+    height: 189px;
+    top: 0;
+    left: 5px;
+}
+
+.newsletter .img {
+    position: absolute;
+    width: 158px;
+    height: 136px;
+    top: 53px;
+    left: 161px;
+}
+
+.newsletter .vector-2 {
+    position: absolute;
+    width: 117px;
+    height: 136px;
+    top: 50px;
+    left: 327px;
+}
+
+.newsletter .vector-3 {
+    position: absolute;
+    width: 116px;
+    height: 139px;
+    top: 50px;
+    left: 452px;
+}
+
+.newsletter .vector-4 {
+    position: absolute;
+    width: 102px;
+    height: 164px;
+    top: 25px;
+    left: 573px;
+}
+
+.newsletter .group-2 {
+    position: absolute;
+    width: 232px;
+    height: 35px;
+    top: 0;
+    left: 161px;
+}
+
+.newsletter .vector-5 {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    top: 230px;
+    left: 140px;
+}
+
+.newsletter .vector-6 {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    top: 230px;
+    left: 308px;
+}
+
+.newsletter .vector-7 {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    top: 230px;
+    left: 491px;
+}
+
+.newsletter .component {
+    position: relative;
+    width: 946px;
+    height: 1539px;
+}
+
+.newsletter .img-2 {
+    position: absolute;
+    width: 945px;
+    height: 945px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.newsletter .TITLE {
+    position: absolute;
+    width: 369px;
+    top: 1186px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #4a4a4a;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 29.7px;
+}
+
+.newsletter .text-wrapper {
+    width: 345px;
+    top: 1381px;
+    left: 0;
+    font-family: "Open Sans-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 32px;
+    line-height: 39.1px;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .p {
+    width: 450px;
+    top: 990px;
+    left: 496px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 13px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .span {
+    color: #000000;
+}
+
+.newsletter .text-wrapper-2 {
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ed3024;
+    font-size: 16px;
+}
+
+.newsletter .TITLE-2 {
+    width: 405px;
+    top: 977px;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #c93d32;
+    font-size: 48px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .mask-group {
+    position: absolute;
+    width: 35px;
+    height: 33px;
+    top: 1304px;
+    left: 0;
+}
+
+.newsletter .TITLE-3 {
+    width: 90px;
+    top: 1310px;
+    left: 220px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    line-height: normal;
+    text-decoration: underline;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-4 {
+    width: 90px;
+    top: 1519px;
+    left: 486px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    line-height: normal;
+    text-decoration: underline;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-5 {
+    width: 70px;
+    top: 1302px;
+    left: 48px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .vector-8 {
+    position: absolute;
+    width: 18px;
+    height: 20px;
+    top: 1310px;
+    left: 327px;
+}
+
+.newsletter .component-2 {
+    position: relative;
+    width: 948px;
+    height: 1303px;
+}
+
+.newsletter .image {
+    position: absolute;
+    width: 946px;
+    height: 675px;
+    top: 0;
+    left: 2px;
+    object-fit: cover;
+}
+
+.newsletter .TITLE-6 {
+    width: 495px;
+    top: 718px;
+    left: 451px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .text-wrapper-3 {
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #2ab528;
+    text-decoration: underline;
+}
+
+.newsletter .text-wrapper-4 {
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #2ab627;
+    text-decoration: underline;
+}
+
+.newsletter .TITLE-7 {
+    width: 361px;
+    top: 708px;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ff02fb;
+    font-size: 48px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-8 {
+    width: 341px;
+    top: 1091px;
+    left: 0;
+    font-family: "Open Sans-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 32px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .mask-group-2 {
+    position: absolute;
+    width: 35px;
+    height: 33px;
+    top: 1002px;
+    left: 0;
+}
+
+.newsletter .TITLE-9 {
+    width: 70px;
+    top: 1004px;
+    left: 46px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-10 {
+    width: 90px;
+    top: 1015px;
+    left: 221px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    line-height: normal;
+    text-decoration: underline;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .vector-9 {
+    position: absolute;
+    width: 18px;
+    height: 20px;
+    top: 1015px;
+    left: 328px;
+}
+
+.newsletter .component-3 {
+    position: relative;
+    width: 971px;
+    height: 1121px;
+}
+
+.newsletter .TITLE-11 {
+    width: 548px;
+    top: -1px;
+    left: 8px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #853590;
+    font-size: 48px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .group-3 {
+    position: absolute;
+    width: 993px;
+    height: 1025px;
+    top: 96px;
+    left: 0;
+}
+
+.newsletter .image-2 {
+    position: absolute;
+    width: 993px;
+    height: 1025px;
+}
+
+.newsletter .TITLE-12 {
+    width: 59px;
+    top: 0;
+    left: 10px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #3f0848;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-13 {
+    width: 90px;
+    top: 354px;
+    left: 10px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #4f0e59;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-14 {
+    width: 135px;
+    top: 526px;
+    left: 10px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #61176c;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-15 {
+    width: 135px;
+    top: 720px;
+    left: 10px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #853590;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-16 {
+    width: 181px;
+    top: 720px;
+    left: 663px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #9748a2;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-17 {
+    width: 135px;
+    top: 900px;
+    left: 11px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #a761b1;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-18 {
+    width: 135px;
+    top: 900px;
+    left: 148px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #c98fd1;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-19 {
+    width: 135px;
+    top: 900px;
+    left: 461px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #dcace3;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-20 {
+    width: 152px;
+    top: 900px;
+    left: 819px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #b776c0;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-21 {
+    width: 152px;
+    top: 900px;
+    left: 649px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #c891d0;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .TITLE-22 {
+    width: 135px;
+    top: 526px;
+    left: 594px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #762282;
+    font-size: 16px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.newsletter .line {
+    position: absolute;
+    width: 945px;
+    height: 2px;
+    top: 22px;
+    left: 9px;
+}
+
+.newsletter .line-2 {
+    position: absolute;
+    width: 945px;
+    height: 2px;
+    top: 376px;
+    left: 9px;
+}
+
+.newsletter .line-3 {
+    position: absolute;
+    width: 558px;
+    height: 2px;
+    top: 548px;
+    left: 9px;
+}
+
+.newsletter .line-4 {
+    position: absolute;
+    width: 630px;
+    height: 2px;
+    top: 742px;
+    left: 9px;
+}
+
+.newsletter .line-5 {
+    position: absolute;
+    width: 292px;
+    height: 2px;
+    top: 742px;
+    left: 662px;
+}
+
+.newsletter .line-6 {
+    position: absolute;
+    width: 104px;
+    height: 2px;
+    top: 922px;
+    left: 9px;
+}
+
+.newsletter .line-7 {
+    position: absolute;
+    width: 289px;
+    height: 2px;
+    top: 922px;
+    left: 146px;
+}
+
+.newsletter .line-8 {
+    position: absolute;
+    width: 168px;
+    height: 2px;
+    top: 922px;
+    left: 459px;
+}
+
+.newsletter .line-9 {
+    position: absolute;
+    width: 142px;
+    height: 2px;
+    top: 922px;
+    left: 651px;
+}
+
+.newsletter .line-10 {
+    position: absolute;
+    width: 136px;
+    height: 2px;
+    top: 922px;
+    left: 819px;
+}
+
+.newsletter .line-11 {
+    position: absolute;
+    width: 362px;
+    height: 2px;
+    top: 548px;
+    left: 594px;
+}
+
+.newsletter .image-3 {
+    position: absolute;
+    width: 73px;
+    height: 54px;
+    top: 73px;
+    left: 146px;
+    object-fit: cover;
+}
+
+.newsletter .image-4 {
+    position: absolute;
+    width: 217px;
+    height: 44px;
+    top: 78px;
+    left: 256px;
+    object-fit: cover;
+}
+
+.newsletter .image-5 {
+    position: absolute;
+    width: 65px;
+    height: 45px;
+    top: 77px;
+    left: 510px;
+    object-fit: cover;
+}
+
+.newsletter .image-6 {
+    position: absolute;
+    width: 71px;
+    height: 45px;
+    top: 77px;
+    left: 612px;
+    object-fit: cover;
+}
+
+.newsletter .image-7 {
+    position: absolute;
+    width: 54px;
+    height: 50px;
+    top: 167px;
+    left: 9px;
+    object-fit: cover;
+}
+
+.newsletter .element-2 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 67px;
+    left: 720px;
+    mix-blend-mode: luminosity;
+    object-fit: cover;
+}
+
+.newsletter .logo {
+    position: absolute;
+    width: 135px;
+    height: 56px;
+    top: 80px;
+    left: 822px;
+    mix-blend-mode: luminosity;
+    object-fit: cover;
+}
+
+.newsletter .image-8 {
+    position: absolute;
+    width: 91px;
+    height: 32px;
+    top: 176px;
+    left: 740px;
+}
+
+.newsletter .image-9 {
+    position: absolute;
+    width: 132px;
+    height: 45px;
+    top: 430px;
+    left: 9px;
+    object-fit: cover;
+}
+
+.newsletter .image-10 {
+    position: absolute;
+    width: 146px;
+    height: 42px;
+    top: 431px;
+    left: 169px;
+    object-fit: cover;
+}
+
+.newsletter .image-11 {
+    position: absolute;
+    width: 180px;
+    height: 39px;
+    top: 433px;
+    left: 343px;
+    object-fit: cover;
+}
+
+.newsletter .image-12 {
+    position: absolute;
+    width: 94px;
+    height: 69px;
+    top: 157px;
+    left: 119px;
+}
+
+.newsletter .image-13 {
+    position: absolute;
+    width: 152px;
+    height: 42px;
+    top: 431px;
+    left: 641px;
+    object-fit: cover;
+}
+
+.newsletter .image-14 {
+    position: absolute;
+    width: 135px;
+    height: 40px;
+    top: 432px;
+    left: 821px;
+    object-fit: cover;
+}
+
+.newsletter .image-15 {
+    position: absolute;
+    width: 135px;
+    height: 27px;
+    top: 628px;
+    left: 9px;
+    object-fit: cover;
+}
+
+.newsletter .image-16 {
+    position: absolute;
+    width: 133px;
+    height: 63px;
+    top: 610px;
+    left: 292px;
+}
+
+.newsletter .chaithram-final {
+    position: absolute;
+    width: 90px;
+    height: 43px;
+    top: 620px;
+    left: 454px;
+    object-fit: cover;
+}
+
+.newsletter .image-17 {
+    position: absolute;
+    width: 90px;
+    height: 27px;
+    top: 808px;
+    left: 284px;
+    object-fit: cover;
+}
+
+.newsletter .image-18 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 799px;
+    left: 764px;
+    object-fit: cover;
+}
+
+.newsletter .image-19 {
+    position: absolute;
+    width: 40px;
+    height: 45px;
+    top: 799px;
+    left: 415px;
+    object-fit: cover;
+}
+
+.newsletter .image-20 {
+    position: absolute;
+    width: 108px;
+    height: 38px;
+    top: 978px;
+    left: 0;
+    object-fit: cover;
+}
+
+.newsletter .image-21 {
+    position: absolute;
+    width: 125px;
+    height: 29px;
+    top: 983px;
+    left: 827px;
+    mix-blend-mode: luminosity;
+    object-fit: cover;
+}
+
+.newsletter .cochin-university-of {
+    position: absolute;
+    width: 61px;
+    height: 76px;
+    top: 783px;
+    left: 182px;
+    object-fit: cover;
+}
+
+.newsletter .brew-bites {
+    position: absolute;
+    width: 109px;
+    height: 40px;
+    top: 802px;
+    left: 850px;
+    object-fit: cover;
+}
+
+.newsletter .image-22 {
+    position: absolute;
+    width: 69px;
+    height: 56px;
+    top: 969px;
+    left: 558px;
+    object-fit: cover;
+}
+
+.newsletter .image-23 {
+    position: absolute;
+    width: 69px;
+    height: 50px;
+    top: 972px;
+    left: 459px;
+    object-fit: cover;
+}
+
+.newsletter .image-24 {
+    position: absolute;
+    width: 135px;
+    height: 37px;
+    top: 979px;
+    left: 156px;
+    object-fit: cover;
+}
+
+.newsletter .image-25 {
+    position: absolute;
+    width: 86px;
+    height: 56px;
+    top: 969px;
+    left: 682px;
+}
+
+.newsletter .logo-2 {
+    position: absolute;
+    width: 102px;
+    height: 43px;
+    top: 78px;
+    left: 7px;
+    object-fit: cover;
+}
+
+.newsletter .group-4 {
+    position: absolute;
+    width: 132px;
+    height: 39px;
+    top: 802px;
+    left: 496px;
+}
+
+.newsletter .whatsapp-image {
+    position: absolute;
+    width: 53px;
+    height: 50px;
+    top: 254px;
+    left: 148px;
+    mix-blend-mode: luminosity;
+}
+
+.newsletter .jackfruit {
+    position: absolute;
+    width: 39px;
+    height: 47px;
+    top: 255px;
+    left: 253px;
+    object-fit: cover;
+}
+
+.newsletter .creamery-logo-small {
+    position: absolute;
+    width: 67px;
+    height: 59px;
+    top: 249px;
+    left: 893px;
+    mix-blend-mode: luminosity;
+    object-fit: cover;
+}
+
+.newsletter .logo-3 {
+    position: absolute;
+    width: 125px;
+    height: 52px;
+    top: 253px;
+    left: 483px;
+    mix-blend-mode: luminosity;
+}
+
+.newsletter .GOOD-EGGS-LOGO {
+    position: absolute;
+    width: 87px;
+    height: 39px;
+    top: 259px;
+    left: 344px;
+    object-fit: cover;
+}
+
+.newsletter .sprinkling-tote {
+    position: absolute;
+    width: 81px;
+    height: 39px;
+    top: 172px;
+    left: 269px;
+    object-fit: cover;
+}
+
+.newsletter .chakkakootam {
+    position: absolute;
+    width: 74px;
+    height: 44px;
+    top: 170px;
+    left: 416px;
+    object-fit: cover;
+}
+
+.newsletter .miheso {
+    position: absolute;
+    width: 118px;
+    height: 27px;
+    top: 178px;
+    left: 556px;
+    object-fit: cover;
+}
+
+.newsletter .fryzo {
+    position: absolute;
+    width: 53px;
+    height: 52px;
+    top: 166px;
+    left: 897px;
+    object-fit: cover;
+}
+
+.newsletter .groves {
+    position: absolute;
+    width: 87px;
+    height: 44px;
+    top: 257px;
+    left: 9px;
+    object-fit: cover;
+}
+
+.newsletter .borna {
+    position: absolute;
+    width: 37px;
+    height: 41px;
+    top: 258px;
+    left: 641px;
+    object-fit: cover;
+}
+
+.newsletter .saltico {
+    position: absolute;
+    width: 111px;
+    height: 20px;
+    top: 269px;
+    left: 730px;
+    object-fit: cover;
+}
+
+.newsletter .wellmade-logo-RGB {
+    position: absolute;
+    width: 90px;
+    height: 74px;
+    top: 605px;
+    left: 173px;
+    object-fit: cover;
+}
+
+.newsletter .triborg {
+    position: absolute;
+    width: 91px;
+    height: 51px;
+    top: 616px;
+    left: 597px;
+    object-fit: cover;
+}
+
+.newsletter .invictus {
+    position: absolute;
+    width: 90px;
+    height: 58px;
+    top: 613px;
+    left: 726px;
+    object-fit: cover;
+}
+
+.newsletter .martechero {
+    position: absolute;
+    width: 90px;
+    height: 40px;
+    top: 977px;
+    left: 321px;
+    object-fit: cover;
+}
+
+.newsletter .image-26 {
+    position: absolute;
+    width: 117px;
+    height: 87px;
+    top: 598px;
+    left: 854px;
+    object-fit: cover;
+}
+
+.newsletter .image-27 {
+    position: absolute;
+    width: 130px;
+    height: 34px;
+    top: 804px;
+    left: 11px;
+    object-fit: cover;
+}
+
+.newsletter .image-28 {
+    position: absolute;
+    width: 54px;
+    height: 53px;
+    top: 795px;
+    left: 669px;
+}
+
+.newsletter .component-4 {
+    position: relative;
+    width: 946px;
+    height: 240px;
+}
+
+.newsletter .TITLE-23 {
+    width: 946px;
+    top: 0;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 60px;
+    line-height: 80px;
+    position: absolute;
+    letter-spacing: 0;
+	display: inline-block;
+	padding-bottom: 10px;
+}
+
+.newsletter .TITLE-24 {
+    width: 946px;
+    top: 170px;
+    left: 20px;
+    font-family: "Montserrat-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 24px;
+    text-align: right;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+	display: inline-block;
+}
+
+.newsletter .component-5 {
+    position: relative;
+    width: 1220px;
+    height: 115px;
+}
+
+.newsletter .WEB-APP-DEVELOPMENT {
+    position: absolute;
+    width: 178px;
+    top: -1px;
+    left: 989px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 17.5px;
+    white-space: nowrap;
+}
+
+.newsletter .RESEARCH-AND {
+    position: absolute;
+    width: 145px;
+    top: -1px;
+    left: 456px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 17.5px;
+    white-space: nowrap;
+}
+
+.newsletter .MARKETING {
+    position: absolute;
+    width: 158px;
+    top: -1px;
+    left: 633px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 17.5px;
+    white-space: nowrap;
+}
+
+.newsletter .BRAND-CONSULTANCY {
+    position: absolute;
+    width: 129px;
+    top: -1px;
+    left: 826px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 17.5px;
+    white-space: nowrap;
+}
+
+.newsletter .layer {
+    position: absolute;
+    width: 135px;
+    height: 20px;
+    top: 52px;
+    left: 46px;
+}
+
+.newsletter .group-5 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 80px;
+    left: 119px;
+}
+
+.newsletter .group-6 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 80px;
+    left: 82px;
+}
+
+.newsletter .group-7 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 80px;
+    left: 46px;
+}
+
+.newsletter .group-8 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 80px;
+    left: 155px;
+}
+
+.newsletter .line-12 {
+    position: absolute;
+    width: 439px;
+    height: 1px;
+    top: 8px;
+    left: 0;
+}
+
+.newsletter .line-13 {
+    position: absolute;
+    width: 53px;
+    height: 1px;
+    top: 8px;
+    left: 1167px;
+}
+
+.newsletter .element-opp-ansals {
+    position: absolute;
+    width: 185px;
+    top: 53px;
+    left: 989px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 17.5px;
+    text-decoration: underline;
+}
+
+.newsletter .span-wrapper {
+    position: absolute;
+    width: 120px;
+    top: 51px;
+    left: 826px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 17.5px;
+}
+
+.newsletter .text-wrapper-5 {
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 17.5px;
+}
+
+.newsletter .www-bblewrap-com {
+    position: absolute;
+    width: 225px;
+    top: 50px;
+    left: 271px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    text-decoration: underline;
+}
+
+.newsletter .text-wrapper-6 {
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    text-decoration: underline;
+}
